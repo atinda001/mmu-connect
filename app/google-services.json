@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093174628260",
+    "project_id": "mmu-connect",
+    "storage_bucket": "mmu-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093174628260:android:72dd2d930380bdac7bfb31",
+        "android_client_info": {
+          "package_name": "com.example.mmu_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093174628260-0o3hq0fq5ohh4rshpk9vbv8tumbsdpjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ9miZNVZ39EZDqIcDxXyJy0DZuwzX_MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093174628260-0o3hq0fq5ohh4rshpk9vbv8tumbsdpjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
